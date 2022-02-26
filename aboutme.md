@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Somos Estilo
+title: INFORMACION
 subtitle:
 ---
 ## Tienda virtual
