@@ -13,7 +13,7 @@ subtitle: INFORMACION
 ### Pago vía transferencia
 #### Envíos a todas partes del país 🇩🇴
 # 📱829-677-0438
-## 🚫 CAMBIO
+## 🚫 NO CAMBIO
 ## 🚫 NO DEVOLUCIÓN
 
 </div>
