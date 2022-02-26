@@ -15,7 +15,7 @@ subtitle: INFORMACION
 ---
 <div style="font-style: normal; text-align: center;" markdown="1">
 
-# INFORMACION
+# INFORMACION:
 # Tienda virtual
 ## 📍(Sto. Dgo.)
 ### Pago vía transferencia
