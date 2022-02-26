@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NOSOTROS
+title: SOMOS👗ESTILO
 subtitle: INFORMACION
 ---
 
