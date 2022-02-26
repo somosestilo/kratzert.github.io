@@ -16,8 +16,8 @@ subtitle:
 
 ---
 
-<form action="https://wa.me/8296770438" class="center">
-  <button type="submit">Escribenos via Whatsapp</button>
+<form action="https://wa.me/8296770438">
+  <button type="submit" class="center">Escribenos via Whatsapp</button>
 </form>
 ---
 
