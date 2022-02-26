@@ -12,6 +12,10 @@ subtitle:
 
 ---
 
+<img src="/img/avatar2.jpg" alt="Somos Estilo" class="center">
+
+---
+
 <form action="https://wa.me/8296770438">
   <button type="submit">Escribenos via Whatsapp</button>
 </form>
