@@ -4,14 +4,6 @@ title:
 subtitle: INFORMACION
 ---
 
-<img src="/img/avatar2.jpg" alt="Somos Estilo" class="center">
-
----
-
-<form action="https://wa.me/8296770438">
-  <button type="submit" class="center">Escribenos via Whatsapp</button>
-</form>
-
 ---
 <div style="font-style: normal; text-align: center;" markdown="1">
 
@@ -27,3 +19,14 @@ subtitle: INFORMACION
 </div>
 
 ---
+
+
+<img src="/img/avatar2.jpg" alt="Somos Estilo" class="center">
+
+---
+
+<form action="https://wa.me/8296770438">
+  <button type="submit" class="center">Escribenos via Whatsapp</button>
+</form>
+
+
