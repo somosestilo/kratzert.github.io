@@ -13,7 +13,7 @@ subtitle: INFORMACION
 </form>
 
 ---
-<div text-align: center;" markdown="1">
+<div style="font-style: normal; text-align: center;" markdown="1">
 
 # INFORMACION
 # Tienda virtual
