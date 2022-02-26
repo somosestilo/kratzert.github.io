@@ -13,7 +13,7 @@ subtitle: INFORMACION
 </form>
 
 ---
-<div style="font-style: italic; text-align: center;" markdown="1">
+<div text-align: center;" markdown="1">
 
 # Tienda virtual
 ## 📍(Sto. Dgo.)
