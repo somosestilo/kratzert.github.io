@@ -17,3 +17,6 @@ Buscanos en las redes sociales Facebook, instagram y twitter como @SomosEstilo0
 
 Mas informacion Escribenos via Whatsapp!
 
+<form action="https://wa.me/8296770438">
+  <button type="submit">Escribenos via Whatsapp</button>
+</form>
