@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre Nosotros
+title: Somos Estilo
 subtitle:
 ---
 ## Tienda virtual📍(Sto. Dgo.)
